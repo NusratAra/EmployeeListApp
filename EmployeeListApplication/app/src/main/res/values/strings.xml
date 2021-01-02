@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Employee List</string>
+    <string name="name">Name</string>
+    <string name="employee_name">Name</string>
+    <string name="employee_age">Age</string>
+    <string name="employee_gender">Gender</string>
+    <string name="save">Save</string>
+    <string name="add_employee">Add employee</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="gender">Gender</string>
+    <string name="delete_all_employees">Delete all employees</string>
+    <string name="delete_warning_single">Are you sure that you want to delete this one?</string>
+    <string name="delete_warning_all">Are you sure that you want to delete all employees?</string>
+    <string name="edit_employee">Edit employee</string>
+    <string name="name_tag">Name: </string>
+    <string name="age_tag">Age: </string>
+    <string name="gender_tag">Gender: </string>
+    <string name="export_list">Export list</string>
+    <string name="import_list">Import list</string>
+</resources>
